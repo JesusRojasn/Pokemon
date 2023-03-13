@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pokemon/static/css/main.712d818e.css",
+    "main.js": "/Pokemon/static/js/main.7151224e.js",
+    "static/media/ruta.png": "/Pokemon/static/media/ruta.7ff36d19701dd6761f37.png",
+    "static/media/Logo.png": "/Pokemon/static/media/Logo.c8e5f5413616d2d8709c.png",
+    "index.html": "/Pokemon/index.html",
+    "main.712d818e.css.map": "/Pokemon/static/css/main.712d818e.css.map",
+    "main.7151224e.js.map": "/Pokemon/static/js/main.7151224e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712d818e.css",
+    "static/js/main.7151224e.js"
+  ]
+}
